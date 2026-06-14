@@ -3,11 +3,12 @@
 ## AIM:
 To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
-## Full Wave Rectifier Without Filter
-<img width="1037" height="597" alt="image" src="https://github.com/user-attachments/assets/36b9844a-ceca-4ecd-90d1-90ef16e3d23f" />
 
-## Full Wave Rectifier With Filter
-<img width="964" height="558" alt="image" src="https://github.com/user-attachments/assets/1e167cc5-afcd-4d45-9102-ac7cafac30a4" />
+## Full Wave Centre Tapped Transformer Rectifier Without Filter
+<img width="1246" height="980" alt="image" src="https://github.com/user-attachments/assets/accf620b-e109-4f5d-9172-774440f77998" />
+
+## Full Wave Centre Tapped Transformer Rectifier With Filter
+<img width="1612" height="973" alt="image" src="https://github.com/user-attachments/assets/f5be083e-be0a-42bc-b7c3-3ea04b9cda68" />
 
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
@@ -49,13 +50,12 @@ To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare 
 37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## OUTPUT:
-## Full Wave Rectifier Without Filter
+## Full Wave Centre Tapped Transformer Rectifier Without Filter
+<img width="1280" height="643" alt="image" src="https://github.com/user-attachments/assets/3c8a3388-add3-48c9-a293-635ceecc1243" />
 
-<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/61e3c30a-e362-4167-8aaf-33690e61e46d" />
+## Full Wave Centre Tapped Transformer Rectifier With Filter
+<img width="1280" height="641" alt="image" src="https://github.com/user-attachments/assets/0dc75a4a-9a29-44ad-bb95-238e05da6685" />
 
-## Full Wave Rectifier With Filter
-<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/ff50d18a-898e-4f26-a24b-598f17002e70" />
 ## RESULT:
-
-![WhatsApp Image 2025-11-28 at 00 20 37_40e5ce7d](https://github.com/user-attachments/assets/dddc97e0-c0af-459b-a046-111a4f4bb3cc)
+![WhatsApp Image 2025-11-29 at 08 28 45_9d029588](https://github.com/user-attachments/assets/21e5b2c5-bcdb-428b-95e5-6d4a778ccd2e)
 
